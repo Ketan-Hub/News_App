@@ -1,0 +1,33 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Biden Touts Efforts to Crack Down on 'Junk Fees' - Bloomberg Television",
+        "description": "President Joe Biden touts his administration's efforts to crack down on so-called \"junk fees,\" or unnecessary charges that raise the prices of items like air...",
+        "url": "https://www.youtube.com/watch?v=yRdsc78mgJU",
+        "urlToImage": "https://i.ytimg.com/vi/yRdsc78mgJU/hqdefault.jpg",
+        "publishedAt": "2023-02-08T04:16:36Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Siobhan Hughes, Annie Linskey, Vivian Salama, Andrew Duehren",
+        "title": "Biden Heckled by Republicans After Remarks About Cuts to Social Security - The Wall Street Journal",
+        "description": "Full coverage of President Biden's second State of the Union address, from The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/state-of-the-union-2023-president-biden",
+        "urlToImage": "https://images.wsj.net/im-719823/social",
+        "publishedAt": "2023-02-08T03:43:32Z",
+        "content": null
+      }
+    ]
+
+    }
